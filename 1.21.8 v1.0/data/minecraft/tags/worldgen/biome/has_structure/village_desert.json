@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:desert"
+  ],
+  "exclude": [
+    "#minecraft:is_ocean",
+    "minecraft:river"
+  ]
+}
