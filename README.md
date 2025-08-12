@@ -13,6 +13,7 @@ This datapack currently supports 1.21.8 only and may support older versions soon
 2. Click **More** → **Datapacks** → **Open Pack Folder** (1.21.8)
 3. Drop the datapack `.zip` file of this datapack into folder
 4. Back to Minecraft and select and add it → **Done** → Generate the world
+
 **Other method**
 1. Drop the datapack `.zip` file into existing world folder and restart (leave and join) the world
 2. Datapack should be enabled automatically (You can check by `/datapack list` only 1.21.8)
