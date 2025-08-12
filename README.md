@@ -1,4 +1,4 @@
-![Description Thumbnail Preview](https://github.com/user-attachments/assets/e0623302-e855-4334-9af8-69db502a11f3)
+<img width="1920" height="800" alt="Description Thumbnail Preview" src="https://github.com/user-attachments/assets/fda99979-1aa4-4774-a13b-2ffa9b33f61b" />
 
 # 🏘️ Infinitely Generated Overworld Village
 This is my first Minecraft project I ever made and released into public and open-sourced yet, anyways
