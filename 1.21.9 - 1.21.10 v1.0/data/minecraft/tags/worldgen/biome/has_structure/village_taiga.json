@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:taiga"
+  ],
+  "exclude": [
+    "#minecraft:is_ocean",
+    "minecraft:river"
+  ]
+}
