@@ -1,8 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    "minecraft:taiga",
-    "minecraft:snowy_taiga",
-    "#custom:allow_all_villages"
-  ]
-}
