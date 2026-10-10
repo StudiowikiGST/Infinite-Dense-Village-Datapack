@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:jigsaw",
+  "biomes": "#custom:has_structure/nether_village",
+  "step": "surface_structures",
+  "spawn_overrides": {},
+  "start_pool": "minecraft:village/plains/town_centers",
+  "size": 7,
+  "start_height": {
+    "absolute": 64
+  },
+  "max_distance_from_center": 80,
+  "use_expansion_hack": true,
+  "terrain_adaptation": "beard_thin"
+}
